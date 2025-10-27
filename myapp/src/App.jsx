@@ -6,7 +6,7 @@ import ErrorBoundary from './components/ErrorBoundary';
 function App() {
   return (
     <div className="container mx-auto p-4">
-      <h1 className="text-3xl font-bold text-center mb-6">Employee Management</h1>
+      <h1 className="text-3xl font-bold text-center mb-6">Employee Management System</h1>
       <Routes>
         <Route
           path="/"
